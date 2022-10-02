@@ -1,0 +1,5 @@
+
+
+ /*  public List<WebElement> findElement(By locator) {
+        return driver.findElements(locator);
+    } */
